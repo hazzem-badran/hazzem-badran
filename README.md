@@ -46,14 +46,6 @@ A modern portfolio site built with **Vanilla JS, HTML & CSS**, demonstrating str
 
 Seeking a role as a **React.js** or **React Native Developer** within a growth-driven team. My goal is to contribute to real-world solutions, build clean and scalable user interfaces, and keep improving as a developer and teammate.
 
----
-
-## 📌 Find me on
-
-- [LinkedIn](https://www.linkedin.com/in/hazzem-badran)
-- [GitHub](https://github.com/HazemBadran)
-- [YouTube](https://www.youtube.com/@hazemaq)
-- 📫 hazembadran.dev@gmail.com
 
 ---
 
