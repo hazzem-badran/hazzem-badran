@@ -1,10 +1,11 @@
 ## 👋 About Me
 
-🎯 A frontend-focused developer specializing in **React.js** and **React Native**, passionate about building modern, responsive, and user-friendly applications across web and mobile platforms.
+🎯 A Product-minded Developer specializing in frontend development with **React.js** and **React Native**, passionate about building modern, responsive, and user-friendly applications across web and mobile platforms.
 
-I have strong hands-on experience with **React.js**, **Next.js**, and **React Native**, along with a solid understanding of backend basics like **Node.js**, **NestJS**, and **MongoDB**.
+I have strong experience with **React.js**, **Next.js**, and React Native, always committed to writing clean code and designing elegant interfaces that deliver great user experiences.
 
-Clean code, elegant UI, and impactful software are at the core of what I do. I'm always eager to learn, grow, and collaborate with teams to bring ideas to life.
+Clean code, simple design, and software that truly adds value are at the core of my work.
+I’m always eager to learn, grow, and collaborate with teams to turn ideas into successful applications.
 
 ---
 
@@ -16,7 +17,7 @@ Clean code, elegant UI, and impactful software are at the core of what I do. I'm
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,redux,tailwind,html,css,nodejs,nestjs,express,mongodb,firebase,git,github,vscode,postman,figma,expo" alt="Tech Stack Icons" style="transition: transform 0.2s; border-radius: 10px; border: 2px solid #fff; padding: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,redux,tailwind,html,css,nodejs,firebase,git,github,vscode,postman,figma,expo" alt="Tech Stack Icons" style="transition: transform 0.2s; border-radius: 10px; border: 2px solid #fff; padding: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
 </p>
 
