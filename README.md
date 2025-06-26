@@ -17,7 +17,7 @@ I’m always eager to learn, grow, and collaborate with teams to turn ideas into
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,redux,tailwind,html,css,nodejs,firebase,git,github,vscode,postman,figma,expo" alt="Tech Stack Icons" style="transition: transform 0.2s; border-radius: 10px; border: 2px solid #fff; padding: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,nodejs,firebase,git,github,vscode,postman,figma,expo" alt="Tech Stack Icons" style="transition: transform 0.2s; border-radius: 10px; border: 2px solid #fff; padding: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
 </p>
 
