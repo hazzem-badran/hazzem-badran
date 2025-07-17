@@ -23,26 +23,6 @@ I’m always eager to learn, grow, and collaborate with teams to turn ideas into
 
 ---
 
-## 🚀 Featured Projects
-
-### 📱 **Filmoo – Movie Discovery App**
-A mobile app built with **React Native** and the **TMDB API** that lets users search, explore, and discover movies. Features include dynamic search, smooth navigation, and clean UI.  
-> Strong focus on mobile UX and real-time API integration.
-
----
-
-### 🌐 **Areisto – Company Website**
-Developed the official website of Areisto during my internship using **React.js**, showcasing the company’s services, portfolio, and team.  
-> Fully responsive, well-structured, and aligned with brand identity.
-
----
-
-### 💼 **Digiency – Landing Page**
-A modern portfolio site built with **Vanilla JS, HTML & CSS**, demonstrating structured layouts, clean UI design, and mobile responsiveness.  
-> No frameworks—just pure frontend craftsmanship.
-
----
-
 ## 💼 Career Objective
 
 Seeking a role as a **React.js** or **React Native Developer** within a growth-driven team. My goal is to contribute to real-world solutions, build clean and scalable user interfaces, and keep improving as a developer and teammate.
