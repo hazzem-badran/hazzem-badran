@@ -23,10 +23,3 @@ I’m always eager to learn, grow, and collaborate with teams to turn ideas into
 
 ---
 
-## 💼 Career Objective
-
-Seeking a role as a **React.js** or **React Native Developer** within a growth-driven team. My goal is to contribute to real-world solutions, build clean and scalable user interfaces, and keep improving as a developer and teammate.
-
-
----
-
