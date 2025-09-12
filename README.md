@@ -9,7 +9,7 @@ I’m always eager to learn, grow, and collaborate with teams to turn ideas into
 
 ---
 
-⚡ Fun Fact: I enjoy debugging complex problems and turning them into clean, scalable solutions. Coding is not just a job—it's a craft I love.
+⚡ Fun Fact: From Gaza’s tents and displacement, I write code not just to escape—but to breathe, to hope, and to prove that even in the hardest places, life finds a way through lines of code.
 
 ---
 
