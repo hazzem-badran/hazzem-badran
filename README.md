@@ -1,23 +1,32 @@
-## 👋 About Me
+## 👋 I'm Hazem | Product Builder & Engineer
 
-🎯 A Product-minded Developer specializing in frontend development with **React.js** and **React Native**, passionate about building modern, responsive, and user-friendly applications across web and mobile platforms.
-
-I have strong experience with **React.js**, **Next.js**, and React Native, always committed to writing clean code and designing elegant interfaces that deliver great user experiences.
-
-Clean code, simple design, and software that truly adds value are at the core of my work.
-I’m always eager to learn, grow, and collaborate with teams to turn ideas into successful applications.
+🎯 **Architecting products from 0 to 1.** I specialize in building scalable cross-platform experiences using **React Native** and **React.js**. I don't just write code; I design systems that solve real-world problems with a "Product-First" mindset.
 
 ---
 
-⚡ Fun Fact: From Gaza’s tents and displacement, I write code not just to escape—but to breathe, to hope, and to prove that even in the hardest places, life finds a way through lines of code.
+### 🚀 What I'm working on:
+* 🛠️ **@kufeah**: Building a comprehensive mobile application using a **Turborepo Monorepo** and **Supabase**.
+* ⚡ **Performance Optimization**: Deep-diving into React Native performance and shared logic architectures.
+* 📦 **Clean Code Advocate**: Obsessed with Design Systems, Conventional Commits, and scalable folder structures.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nextjs,redux,tailwind,styledcomponents,materialui,vite,webpack,babel,androidstudio,nodejs,express,mongodb,firebase,supabase,docker,netlify,vercel,git,github,gitlab,vscode,postman,npm,pnpm,figma,notion,obsidian,stackoverflow,linkedin,twitter,devto,discord" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,supabase,pnpm,tailwind,redux,git,github,vscode,figma,obsidian" />
   </a>
 </p>
 
+*Focused on: React Native, React, TypeScript, Supabase, and Monorepo Architectures.*
+
+---
+
+### 🕊️ Beyond the Code
+⚡ **Fun Fact:** I write code from the heart of Gaza. In the midst of displacement and tents, every line of code is a testament to resilience. Coding isn't just my profession; it's my way of proving that hope and innovation can thrive anywhere. 
+
+---
+
+### 📊 Let's Connect
+[LinkedIn](www.linkedin.com/in/hazembadran) | [Portfolio](https://www.kufeah.com)
