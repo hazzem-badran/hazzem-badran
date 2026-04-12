@@ -29,4 +29,4 @@
 ---
 
 ### 📊 Let's Connect
-[LinkedIn](www.linkedin.com/in/hazembadran) | [Portfolio](https://www.kufeah.com)
+[LinkedIn](https://www.linkedin.com/in/hazembadran) | [Portfolio](https://www.kufeah.com)
